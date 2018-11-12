@@ -1,0 +1,19 @@
+{
+  "name": "koind",
+  "version": "1.0.0",
+  "description": "This is a simple smart contract token called  koind, written in solidity.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weboluchi/wabcoin.git"
+  },
+  "author": "Kodedly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weboluchi/wabcoin/issues"
+  },
+  "homepage": "https://github.com/weboluchi/wabcoin#readme"
+}
